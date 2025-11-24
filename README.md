@@ -36,7 +36,9 @@
 
 ## 服务器状态说明
 
-![Minecraft Server](https://api.mcstatus.io/v2/widget/java/mc.yzljc.top?dark=true&rounded=true) 
+<div align="center">
+  <img src="https://api.mcstatus.io/v2/widget/java/mc.yzljc.top?dark=true&rounded=true" alt="mc.yzljc.top 服务器状态" width="420" />
+</div>
 
 本服务器持续维护与优化，欢迎加入体验和反馈！
 
