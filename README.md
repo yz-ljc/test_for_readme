@@ -36,7 +36,7 @@
 
 ## 服务器状态说明
 
-![Minecraft Server](https://minecraftpinger.com/server/mc.yzljc.top/badge) 
+![Minecraft Server](https://api.mcstatus.io/v2/widget/java/mc.yzljc.top?dark=true&rounded=true) 
 
 本服务器持续维护与优化，欢迎加入体验和反馈！
 
