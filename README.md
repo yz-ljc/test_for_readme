@@ -37,7 +37,7 @@
 ## 服务器状态说明
 
 <div align="left">
-  <img src="https://api.mcstatus.io/v2/widget/java/mc.yzljc.top:25565?dark=true&rounded=true" alt="mc.yzljc.top 服务器状态" width="300" />
+  <img src="https://api.mcstatus.io/v2/widget/java/lunar.cc:52372?dark=true&rounded=true" alt="mc.yzljc.top 服务器状态" width="300" />
 </div>
 
 本服务器持续维护与优化，欢迎加入体验和反馈！
