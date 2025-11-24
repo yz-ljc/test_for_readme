@@ -36,7 +36,7 @@
 
 ## 服务器状态说明
 
-[![Minecraft Server Status](https://status.mclive.eu/mc.yzljc.top/25565)](https://mclive.eu/mc.yzljc.top:25565) 
+![Minecraft Server](https://minecraftpinger.com/server/mc.yzljc.top/badge) 
 
 本服务器持续维护与优化，欢迎加入体验和反馈！
 
